@@ -24,8 +24,9 @@ A simple React application for user authentication, including **Register**, **Lo
 
 ```bash
 git clone https://github.com/Phsithzz/Login-Register.git
-```bash
+
 cd Login-Register
 npm install
-```bash
+
+
 npm start
