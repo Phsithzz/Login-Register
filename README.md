@@ -16,14 +16,25 @@ A simple React application for user authentication, including **Register**, **Lo
 - **HTTP Client:** Axios
 - **Backend (optional):** Node.js/Express (for API endpoints)
 
+## 🌐 Live Demo
+Frontend only – backend not included
+🔗 View the app online: [https://login-register-ivory.vercel.app/]
 
+## 🧑‍💻 How to Run / วิธีใช้งานบนเครื่อง
 
-## Installation
+1. Clone this repository  
+   ```bash
+    git clone https://github.com/Phsithzz/Login-Register.git
+    cd Login-Register
 
-1. Clone this repository:
+2. Frontend Setup
+    ```bash
+    cd frontend
+    npm install
+    npm run dev
 
-```bash
-git clone https://github.com/Phsithzz/Login-Register.git
-cd Login-Register
-npm install
-npm start
+3. Backend Setup
+    ```bash
+    cd backend
+    npm install
+    npm start
